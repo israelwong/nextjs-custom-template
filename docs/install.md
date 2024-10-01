@@ -1,8 +1,8 @@
 
-GTM
+# Instalando GTM
 npm install @next/third-parties@latest next@latest
 
-implementar /layout
+> implementar /layout
 import { GoogleTagManager } from '@next/third-parties/google';
 
 debajo de children
